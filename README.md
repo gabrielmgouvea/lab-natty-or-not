@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Máquina Musculosa: Um Dia na Praia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto utiliza tecnologias de IA generativa para criar uma imagem realista e detalhada que combina elementos dinâmicos e vibrantes. A cena está ambientada em uma praia nos Estados Unidos, com o fisiculturista ao lado, proporcionando uma visão impactante e inspiradora.
+
+O objetivo deste projeto é explorar o potencial das IAs generativas na criação de conteúdos visuais realistas e envolventes, além de demonstrar como essas ferramentas podem ser utilizadas para produzir imagens de alta qualidade com base em descrições textuais *detalhadas*.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI - https://app.leonardo.ai/ai-generations
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei de um script que se baseia em detalhar o máimo possível, contendo as seguintes etapas:
+Tipo da imagem - Detalhada
+Foco central - Carro esportivo vermelho e um fisiculturista
+Roupas - Sem camisa e de bermuda
+Posição - Perto do carro
+Fundo da imagem - Praia
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![Default_A_detailed_image_of_a_red_sports_car_with_a_shirtless_0](https://github.com/user-attachments/assets/7293798a-86c8-49a1-a916-8cdcb4272ce6)
 
-### Exemplos e Insigths
+![Default_A_detailed_image_of_a_red_sports_car_with_a_shirtless_1](https://github.com/user-attachments/assets/70f5d8cf-7e0b-4ba0-9ab6-a2314e833c1f)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
